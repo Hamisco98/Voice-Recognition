@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/moXtcbRFq01MVHqqCYNkRJQRKiuWWAcj59U2ewdFAQFQPlPt4Qug2jLajHrSZfYqO5Nd4TCriHBPLNF/O0Brw==",
+  "success": true,
+  "projectFilePath": "H:\\C# Projects\\Voice Recognition 001\\Voice Recognition 001\\Voice Recognition 001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\More Admin\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.1\\microsoft.netcore.platforms.5.0.1.nupkg.sha512",
+    "C:\\Users\\More Admin\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\More Admin\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\More Admin\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\More Admin\\.nuget\\packages\\system.speech\\5.0.0\\system.speech.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

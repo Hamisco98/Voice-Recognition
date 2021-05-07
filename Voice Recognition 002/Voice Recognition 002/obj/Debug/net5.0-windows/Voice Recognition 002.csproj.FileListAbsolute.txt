@@ -1,0 +1,17 @@
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\bin\Debug\net5.0-windows\Voice Recognition 002.exe
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\bin\Debug\net5.0-windows\Voice Recognition 002.deps.json
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\bin\Debug\net5.0-windows\Voice Recognition 002.runtimeconfig.json
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\bin\Debug\net5.0-windows\Voice Recognition 002.runtimeconfig.dev.json
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\bin\Debug\net5.0-windows\Voice Recognition 002.dll
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\bin\Debug\net5.0-windows\ref\Voice Recognition 002.dll
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\bin\Debug\net5.0-windows\Voice Recognition 002.pdb
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\obj\Debug\net5.0-windows\Voice_Recognition_002.Ema.resources
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\obj\Debug\net5.0-windows\Voice Recognition 002.csproj.GenerateResource.cache
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\obj\Debug\net5.0-windows\Voice Recognition 002.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\obj\Debug\net5.0-windows\Voice Recognition 002.AssemblyInfoInputs.cache
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\obj\Debug\net5.0-windows\Voice Recognition 002.AssemblyInfo.cs
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\obj\Debug\net5.0-windows\Voice Recognition 002.csproj.CoreCompileInputs.cache
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\obj\Debug\net5.0-windows\Voice Recognition 002.dll
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\obj\Debug\net5.0-windows\ref\Voice Recognition 002.dll
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\obj\Debug\net5.0-windows\Voice Recognition 002.pdb
+H:\C# Projects\Voice Recognition 002\Voice Recognition 002\obj\Debug\net5.0-windows\Voice Recognition 002.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\bin\Debug\net5.0-windows\Voice Recognition 001.exe
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\bin\Debug\net5.0-windows\Voice Recognition 001.deps.json
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\bin\Debug\net5.0-windows\Voice Recognition 001.runtimeconfig.json
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\bin\Debug\net5.0-windows\Voice Recognition 001.runtimeconfig.dev.json
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\bin\Debug\net5.0-windows\Voice Recognition 001.dll
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\bin\Debug\net5.0-windows\ref\Voice Recognition 001.dll
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\bin\Debug\net5.0-windows\Voice Recognition 001.pdb
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\bin\Debug\net5.0-windows\System.Speech.dll
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\obj\Debug\net5.0-windows\Voice Recognition 001.csprojAssemblyReference.cache
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\obj\Debug\net5.0-windows\Voice_Recognition_001.Form1.resources
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\obj\Debug\net5.0-windows\Voice Recognition 001.csproj.GenerateResource.cache
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\obj\Debug\net5.0-windows\Voice Recognition 001.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\obj\Debug\net5.0-windows\Voice Recognition 001.AssemblyInfoInputs.cache
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\obj\Debug\net5.0-windows\Voice Recognition 001.AssemblyInfo.cs
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\obj\Debug\net5.0-windows\Voice Recognition 001.csproj.CoreCompileInputs.cache
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\obj\Debug\net5.0-windows\Voice Recognition 001.csproj.CopyComplete
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\obj\Debug\net5.0-windows\Voice Recognition 001.dll
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\obj\Debug\net5.0-windows\ref\Voice Recognition 001.dll
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\obj\Debug\net5.0-windows\Voice Recognition 001.pdb
+H:\C# Projects\Voice Recognition 001\Voice Recognition 001\obj\Debug\net5.0-windows\Voice Recognition 001.genruntimeconfig.cache
